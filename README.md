@@ -10,4 +10,5 @@ Now setup your server.
 
 You can use aws, gcp or genesis cloud.
 
-[https://gnsiscld.co/f8a53](genesis cloud)
+- [genesis cloud](https://gnsiscld.co/f8a53)
+
