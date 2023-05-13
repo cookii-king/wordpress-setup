@@ -1,14 +1,16 @@
-# wordpress-setup
+# 🌐 WordPress Setup
 
-# mac
+# 💻 Mac
 
-create keys for connecting to remote server on mac.
+Create keys for connecting to a remote server on Mac.
 
 ```curl -sSL https://raw.githubusercontent.com/cookii-king/wordpress-setup/154f4bfdd8818a5a69af1faadf61278a724ef9f5/mac/generate-server-keys.sh -o generate-server-keys.sh && chmod +x generate-server-keys.sh && bash generate-server-keys.sh```
 
-Now setup your server.
+🚀 Now, set up your server.
 
-You can use aws, gcp or genesis cloud.
+You can use AWS, GCP, or Genesis Cloud.
 
-- [genesis cloud](https://gnsiscld.co/f8a53)
+- [Genesis Cloud](https://gnsiscld.co/f8a53) ☁️
+
+🔗 Contains affiliate links.
 
