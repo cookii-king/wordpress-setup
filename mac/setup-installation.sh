@@ -7,7 +7,7 @@ MYSQL_USER=""
 MYSQL_PASSWORD=""
 SYSTEM_PATH="/home/ubuntu/system/"
 
-sudo chmod 400 "${SYSTEM_PATH}backup.pem"
+# sudo chmod 400 "${SYSTEM_PATH}backup.pem"
 
 # Check if command line arguments are provided
 if [ ! -z "$1" ]; then
