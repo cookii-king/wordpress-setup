@@ -14,6 +14,10 @@ You can use AWS, GCP, or Genesis Cloud.
 
 - [Genesis Cloud](https://gnsiscld.co/f8a53) ☁️
 
+Use you ssh public key
+
+
+
 🔗 Contains affiliate links.
 
 
