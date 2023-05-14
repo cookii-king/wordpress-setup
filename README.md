@@ -19,7 +19,7 @@ Use you ssh public key
 Now setup wordpress
 
 ```
-curl -sSL https://raw.githubusercontent.com/cookii-king/wordpress-setup/154f4bfdd8818a5a69af1faadf61278a724ef9f5/mac/setup-installation.sh -o setup-installation.sh && chmod +x setup-installation.sh && bash setup-installation.sh
+curl -sSL https://raw.githubusercontent.com/cookii-king/wordpress-setup/75dad6eef36b44b1b277fa0e6b546c328b8259cf/mac/setup-installation.sh -o setup-installation.sh && chmod +x setup-installation.sh && ./setup-installation.sh
 ```
 
 
