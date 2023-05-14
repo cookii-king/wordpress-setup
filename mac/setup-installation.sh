@@ -5,7 +5,7 @@ BACKUP_SERVER=""
 MYSQL_DATABASE=""
 MYSQL_USER=""
 MYSQL_PASSWORD=""
-SYSTEM_PATH="/home/ubuntu/system/"
+# SYSTEM_PATH="/home/ubuntu/system/"
 
 # sudo chmod 400 "${SYSTEM_PATH}backup.pem"
 
