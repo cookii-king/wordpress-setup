@@ -16,6 +16,11 @@ You can use AWS, GCP, or Genesis Cloud.
 
 Use you ssh public key
 
+Now setup wordpress
+
+```
+curl -sSL https://raw.githubusercontent.com/cookii-king/wordpress-setup/154f4bfdd8818a5a69af1faadf61278a724ef9f5/mac/setup-installation.sh -o setup-installation.sh && chmod +x setup-installation.sh && bash setup-installation.sh
+```
 
 
 🔗 Contains affiliate links.
