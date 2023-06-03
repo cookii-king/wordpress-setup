@@ -49,7 +49,7 @@ else
     echo ""
   else
     # Generate a random password
-    MYSQL_PASSWORD=$(LC_ALL=C </dev/urandom tr -dc 'a-zA-Z0-9!@#$%^&*()_-+=' | fold -w 16 | head -n 1)
+    MYSQL_PASSWORD=$(LC_ALL=C </dev/urandom tr -dc 'a-zA-Z0-9!@#$%^&*()-_=+' | fold -w 16 | head -n 1)
     echo "Generated MySQL password: $MYSQL_PASSWORD"
   fi
 fi
