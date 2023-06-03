@@ -26,4 +26,4 @@ echo "⏰ Adding Certbot renewal command to crontab..."
 
 echo "✅ All done!"
 
-sudo rm -rm create-ssl-certificate.sh
+sudo rm -rm generate-ssl-certificate.sh
