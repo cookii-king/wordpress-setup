@@ -139,5 +139,8 @@ if [ ! -z "$BACKUP_SERVER" ]; then
   echo "Backup server is set up."
 fi
 
+echo "generating ssl certificate..."
+curl -sSL https://raw.githubusercontent.com/cookii-king/wordpress-setup/main/mac/generate-ssl-certificate.sh -o generate-ssl-certificate.sh && chmod +x generate-ssl-certificate.sh && ./generate-ssl-certificate.sh
+
 echo "done ✅ ∙ to get rid of error just setup your WordPress and update the backup script to your liking..."
 echo "Go to http://${DOMAIN_NAME:-$(curl ifconfig.me)} to finish setting up your WordPress website. 😁"
